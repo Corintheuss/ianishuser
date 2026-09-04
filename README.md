@@ -12,6 +12,6 @@
 
 $\color{#8649e3}{\text{textetdtxttetdtstststs HERE TEXT}}$
 
-<img src="https://komarev.com/ghpvc/?username=ianishuser&label=Little%20Slimes%20🫐&color=8649e3&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ianishuser&label=Little%20Slimes%20★&color=8649e3&style=for-the-badge" />
 
 ![image alt](tumblr_ccb6626d2fccd8bf282652bfa7d3e4e4_2facd082_2048.gif.webp)
