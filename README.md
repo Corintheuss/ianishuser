@@ -1,4 +1,7 @@
 <div align="center">
+![image alt](https://64.media.tumblr.com/98e2829d5e0aabdb4f488ccd40e742eb/c83a268342414894-26/s540x810/ef4bcdbd72bb7288eec1e51453746c7100a414fd.gifv)
+  
+![image alt](tumblr_ccb6626d2fccd8bf282652bfa7d3e4e4_2facd082_2048.gif.webp)
 
 <img src="Untitled485_20260904190633.png" width="300" height="300" />
 
@@ -10,11 +13,7 @@
 
 <br />
 
-![image alt](tumblr_ccb6626d2fccd8bf282652bfa7d3e4e4_2facd082_2048.gif.webp)
-  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oleo+Script&pause=1000&color=9B68F7&width=435&lines=%E2%98%85+%E2%80%9CWHY+are+you+in+MY+base!%3F%E2%80%9D+%E2%98%85;%E2%98%85+%22Can't+even+look+at+him+in+the+eye...%22+%E2%98%85" alt="Typing SVG" /></a>
-
-![image alt](tumblr_ccb6626d2fccd8bf282652bfa7d3e4e4_2facd082_2048.gif.webp)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oleo+Script&pause=1000&color=8267F7&center=true&width=435&lines=%E2%9C%A6+%22WHY+are+YOU+in+MY+base!%3F%22+;%E2%9C%A6+%22Can't+even+look+at+him+in+the+eye...%22+" alt="Typing SVG" /></a>
 
 <br />
 
