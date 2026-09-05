@@ -1,13 +1,23 @@
 <div align="center">
-![image alt](https://64.media.tumblr.com/98e2829d5e0aabdb4f488ccd40e742eb/c83a268342414894-26/s540x810/ef4bcdbd72bb7288eec1e51453746c7100a414fd.gifv)
+
+  
+![image alt](tumblr_98e2829d5e0aabdb4f488ccd40e742eb_ef4bcdbd_540.webp)
   
 ![image alt](tumblr_ccb6626d2fccd8bf282652bfa7d3e4e4_2facd082_2048.gif.webp)
 
-<img src="Untitled485_20260904190633.png" width="300" height="300" />
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=ianishuser&label=Missing%20Children%20★&color=8649e3&style=for-the-badge" />
+
+<br />
+<br />
+
+<img src="Untitled485_20260904190756.png" width="300" height="300" />
+
+<br />
 
 <img src="Untitled485_20260904190718.png" width="300" height="300" />
 
-<img src="Untitled485_20260904190756.png" width="300" height="300" />
 
 <img src="Untitled485_20260904192112.png" width="300" height="300" />
 
@@ -26,10 +36,12 @@ $\color{#7e41b0}{\text{(𝙿𝚕𝚎𝚊𝚜𝚎 𝚠𝚑𝚒𝚜𝚙𝚎𝚛 �
 >
 $\color{#572bad}{\text{"𝙸'𝙼 𝙽𝙾𝚃 𝙰 𝙱𝚁𝙸𝙳𝙴—𝙸𝚃'𝚂 𝙰 𝙲𝙻𝙾𝙰𝙺"}}$
 
-<img src="https://komarev.com/ghpvc/?username=ianishuser&label=Missing%20Children%20★&color=8649e3&style=for-the-badge" />
+
+<img src="Untitled485_20260904190633.png" width="300" height="300" />
+
 
 ![image alt](tumblr_ccb6626d2fccd8bf282652bfa7d3e4e4_2facd082_2048.gif.webp)
 
-
+![image alt](tumblr_98e2829d5e0aabdb4f488ccd40e742eb_ef4bcdbd_540.webp)
 
 </div>
