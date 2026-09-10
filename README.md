@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=ianishuser&label=Missing%20Children%20★&color=F7DA18FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ianishuser&label=Missing%20Children%20★&color=F5E727&style=for-the-badge" />
 
 <br />
 <br />
