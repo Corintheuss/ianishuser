@@ -18,7 +18,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=FFAB32&center=true&width=435&lines=%E1%AF%93%E2%98%85+%E2%80%9C+What+am+I+doing+here%3F%3F+%E2%80%9D;%E1%AF%93%E2%98%85+%E2%80%9C+What+are+YOU+DOING+HERE%3F%3F+%E2%80%9D" alt="Typing SVG" /></a>
 
-$\color{#8d4cf5}{\text{﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ ⋆ ⋆ ⋆ ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌}}$
+$\color{#FFAB32}{\text{﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ ⋆ ⋆ ⋆ ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌}}$
 
 <img src="Untitled488_20260910152258.png" width="100" height="100" />
 
