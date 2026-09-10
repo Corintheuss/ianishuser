@@ -4,7 +4,7 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=ianishuser&label=Missing%20Children%20★&color=8649e3&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ianishuser&label=Missing%20Children%20★&color=F7DA18FF&style=for-the-badge" />
 
 <br />
 <br />
@@ -16,7 +16,7 @@
 
 <br />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Oleo+Script&pause=1000&color=8267F7&center=true&width=435&lines=%E2%9C%A6+%22WHY+are+YOU+in+MY+base!%3F%22+;%E2%9C%A6+%22Can't+even+look+at+him+in+the+eye...%22+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&pause=1000&color=F7DA18&width=435&lines=%E2%80%9C+What+am+I+doing+here%3F%3F+%E2%80%9D;%E2%80%9C+What+are+YOU+DOING+HERE%3F%3F+%E2%80%9D" alt="Typing SVG" /></a>
 
 $\color{#8d4cf5}{\text{﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ ⋆ ⋆ ⋆ ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌}}$
 
