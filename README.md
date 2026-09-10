@@ -41,6 +41,7 @@ $\color{#79BD00}{\text{﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ �
 
 <img src="Untitled488_20260910152506.png" width="300" height="300" />
 
+![image alt](tumblr_67f9272f27063de4218bef5808d67d69_970095a5_1280.png)
 ![image alt](tumblr_4e705b00ceeb7c6fa498f915b038db90_6f1d8c67_640.gif)
 
 
