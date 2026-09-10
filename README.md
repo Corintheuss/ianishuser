@@ -6,7 +6,7 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=ianishuser&label=Missing%20Children%20★&color=B2760E&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ianishuser&label=Little%20Slimes%20★&color=B2760E&style=for-the-badge" />
 
 <br />
 <br />
