@@ -2,6 +2,8 @@
   
 ![image alt](tumblr_4e705b00ceeb7c6fa498f915b038db90_6f1d8c67_640.gif)
 
+![image alt](tumblr_67f9272f27063de4218bef5808d67d69_970095a5_1280.png)
+
 <br />
 
 <img src="https://komarev.com/ghpvc/?username=ianishuser&label=Missing%20Children%20★&color=B2760E&style=for-the-badge" />
