@@ -1,6 +1,6 @@
 <div align="center">
   
-![image alt](tumblr_ccb6626d2fccd8bf282652bfa7d3e4e4_2facd082_2048.gif.webp)
+![image alt](tumblr_4e705b00ceeb7c6fa498f915b038db90_6f1d8c67_640.gif)
 
 <br />
 
@@ -41,7 +41,7 @@ $\color{#733ede}{\text{﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ �
 
 <img src="Untitled485_20260904190633.png" width="300" height="300" />
 
-![image alt](tumblr_ccb6626d2fccd8bf282652bfa7d3e4e4_2facd082_2048.gif.webp)
+![image alt](tumblr_4e705b00ceeb7c6fa498f915b038db90_6f1d8c67_640.gif)
 
 ![image alt](tumblr_6ea2194bf71d811431e0251b2651e514_328c6a2c_1280.webp)
 
